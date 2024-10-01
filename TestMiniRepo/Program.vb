@@ -1,7 +1,5 @@
-Imports System
-
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hello World!")
+        Console.WriteLine("Test de cambios simples!")
     End Sub
 End Module
